@@ -1,4 +1,7 @@
-Assignment 2 / Day 2
+Assignment2 / Day 2
+
+Questions 
+
 a) Create a directory structure in your home directory (cse, two subdirectories cprogs
 and projects under cse) while being in your home directory.
 b) Change to the directory projects.
